@@ -11,6 +11,7 @@
 - 优必选可编程UGOT机器人1个
 - 飞行游戏摇杆1个
 - 一台可以执行python程序的主控（电脑、笔记本、树莓派等）
+- ![](https://aiclassroom.ubtrobot.com/aiengine/resources/joystick.jpg)
 
 ## 步骤2：连接硬件
 
@@ -24,7 +25,7 @@
 
 4. 将游戏摇杆连接主控USB接口。
 
-   ![](https://aiclassroom.ubtrobot.com/aiengine/resources/joystick.jpg)
+   
 
    
 
